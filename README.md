@@ -10,7 +10,7 @@ O programa verifica se um tabuleiro de Sudoku (completo ou parcial) é válido e
 
 - `main.c` → ponto de entrada do programa.  
 - `TAD.c` / `TAD.h` → implementação do Tipo Abstrato de Dados **Tabuleiro**.  
-- `sud1.txt … sud5.txt` → cinco arquivos de exemplo de tabuleiros (válido, inválido, incompleto, etc.).  
+- `sud1.txt … sud4.txt` → quatro arquivos de exemplo de tabuleiros (válido, inválido, incompleto, etc.).  
 - `TP1.pdf` → enunciado original do trabalho.  
 - `Makefile` → script para compilação.  
 
