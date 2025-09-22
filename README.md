@@ -1,6 +1,6 @@
 # Sudoku Validator & Advisor
 
-Implementação em C de um **verificador e conselheiro de Sudoku**).
+Implementação em C de um **verificador e conselheiro de Sudoku**.
 
 O programa verifica se um tabuleiro de Sudoku (completo ou parcial) é válido e, quando incompleto, sugere valores possíveis para cada célula vazia.
 
